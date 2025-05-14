@@ -66,3 +66,5 @@ channel = beta
 repo = mainsail-crew/mainsail
 path = /usr/data/mainsail
 
+[simplyprint]
+
